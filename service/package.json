@@ -16,7 +16,7 @@
     "express-graphql": "^0.6.1",
     "express-server": "^0.7.0",
     "graphql": "^0.8.2",
-    "mongoose": "^4.7.2",
+    "mongoose": "^4.13.21",
     "react-datetime": "^2.14.0"
   },
   "devDependencies": {
